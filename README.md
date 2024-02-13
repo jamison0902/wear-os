@@ -1,6 +1,6 @@
 ## Projeto Wear OS
 
-Este projeto tem como objetivo demonstrar como as tecnologias wearables podem criar soluções acessíveis e inclusivas por meio de aplicações práticas. Neste aplicativo, os usuários podem visualizar uma lista de tarefas e cadastrar novas tarefas por comando de voz, além de poder ouvi-las.
+Este projeto tem como objetivo demonstrar como as tecnologias wearables podem criar soluções acessíveis e inclusivas por meio de aplicações práticas. Neste aplicativo, o usuário pode visualizar uma lista de tarefas e cadastrar novas tarefas por comando de voz, além de poder ouvi-las.
 
 ## Recursos
 
